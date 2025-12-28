@@ -1,12 +1,8 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "General Information": {
+    "name": "Jose F. Gómez Bedoya",
+    "label": "Physics and Systems Engineering Undergrad",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -151,13 +147,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate. DELF B1 ",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
