@@ -158,7 +158,7 @@
       "icon": "fa-solid fa-atom",
       "keywords": [
         "High-Energy Physics & Phenomenology",
-        "Beyond Standard Model Physics (Dark Matter, Neutrinos)",
+        "BSM Physics (Dark Matter, Neutrinos)",
         "Condensed Matter & Solid State Physics",
         "Computational Physics & Fluid Dynamics",
         "Quantum Optics"
@@ -182,7 +182,7 @@
         "High-Performance Computing",
         "Numerical & Scientific Computing",
         "Low-Level Programming (C/C++)",
-        "Operating Systems & Systems Programming",
+        "OS & Embedded Systems Programming",
         "Full-Stack Web Development"
       ]
     },
