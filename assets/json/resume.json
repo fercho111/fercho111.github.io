@@ -4,15 +4,7 @@
     "label": "Physics and Systems Engineering Undergrad",
     "image": "",
     "email": "jose.gomez18@eia.edu.co",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "summary": "8th Semester Physics and Systems Engineering Undergrad",
     "profiles": [
       {
         "network": "Twitter",
@@ -28,8 +20,11 @@
       "url": "https://www.arus.com.co/",
       "startDate": "2022-11-01",
       "endDate": "2024-04-14",
-      "summary": "",
-      "highlights": ["Relativity"]
+      "summary": "Developed and deployed fullstack web applications with the use of Python, JavaScript, MongoDB, among others frameworks and libraries.",
+      "highlights": [
+        "Developed data-driven pipelines and performed computational analysis using scientific Python libraries (scikit-learn, PyTorch), including machine learning methods",
+        "Implemented containerized and distributed applications using modern frameworks and tooling (Docker, Vue, NestJS, Starlette, and related)"
+      ]
     }
   ],
   "education": [
@@ -37,7 +32,6 @@
       "institution": "EIA University",
       "location": "Envigado, Colombia",
       "url": "https://www.eia.edu.co/",
-      "area": "Software Development",
       "studyType": "B.Sc. in Physics",
       "startDate": "2022",
       "endDate": "now",
@@ -48,7 +42,6 @@
       "institution": "EIA University",
       "location": "Envigado, Colombia",
       "url": "https://www.eia.edu.co/",
-      "area": "Software Development",
       "studyType": "B.Sc. in Systems Engineering",
       "startDate": "2023",
       "endDate": "now",
@@ -163,14 +156,45 @@
   "interests": [
     {
       "name": "Physics",
+      "icon": "fa-solid fa-radioactive",
+      "keywords": [
+        "High-Energy Physics & Phenomenology",
+        "Beyond Standard Model Physics (Dark Matter, Neutrinos)",
+        "Condensed Matter & Solid State Physics",
+        "Quantum Field Theory",
+        "Computational Physics",
+        "Quantum Optics"
+      ]
+    },
+    {
+      "name": "Mathematics & Mathematical Physics",
+      "icon": "fa-solid fa-heptagon",
+      "keywords": [
+        "Algebraic Structures",
+        "Differential Geometry",
+        "Geometric and Topological Methods",
+        "Topological Quantum Field Theory",
+        "Mathematical Structures in Quantum Theory"
+      ]
+    },
+    {
+      "name": "Software Engineering",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Backend Development",
+        "Distributed Systems",
+        "Scientific Software",
+        "Testing and Code Quality"
+      ]
+    },
+    {
+      "name": "Data Science & Computation",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Numerical Methods",
+        "Scientific Computing",
+        "Data Analysis",
+        "Machine Learning"
       ]
     }
   ],
