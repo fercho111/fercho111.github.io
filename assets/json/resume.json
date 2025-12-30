@@ -1,10 +1,9 @@
 {
   "basics": {
-    "name": "Jose F. Gómez Bedoya",
-    "label": "Physics and Systems Engineering Undergrad",
+    "name": "Jose Fernando Gómez Bedoya",
     "image": "",
     "email": "jose.gomez18@eia.edu.co",
-    "summary": "8th Semester Physics and Systems Engineering Undergrad",
+    "summary": "8th Semester Physics and Systems Engineering Undergrad at EIA University.",
     "profiles": [
       {
         "network": "Twitter",
@@ -156,68 +155,47 @@
   "interests": [
     {
       "name": "Physics",
-      "icon": "fa-solid fa-radioactive",
+      "icon": "fa-solid fa-atom",
       "keywords": [
         "High-Energy Physics & Phenomenology",
         "Beyond Standard Model Physics (Dark Matter, Neutrinos)",
         "Condensed Matter & Solid State Physics",
-        "Quantum Field Theory",
-        "Computational Physics",
+        "Computational Physics & Fluid Dynamics",
         "Quantum Optics"
       ]
     },
     {
       "name": "Mathematics & Mathematical Physics",
-      "icon": "fa-solid fa-heptagon",
+      "icon": "fa-solid fa-square-root-variable",
       "keywords": [
         "Algebraic Structures",
         "Differential Geometry",
         "Geometric and Topological Methods",
-        "Topological Quantum Field Theory",
+        "(Topological) Quantum Field Theory",
         "Mathematical Structures in Quantum Theory"
       ]
     },
     {
       "name": "Software Engineering",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Backend Development",
-        "Distributed Systems",
-        "Scientific Software",
-        "Testing and Code Quality"
+        "High-Performance Computing",
+        "Numerical & Scientific Computing",
+        "Low-Level Programming (C/C++)",
+        "Operating Systems & Systems Programming",
+        "Full-Stack Web Development"
       ]
     },
     {
-      "name": "Data Science & Computation",
-      "icon": "fa-solid fa-tag",
+      "name": "Data Science & Engineering",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
-        "Numerical Methods",
-        "Scientific Computing",
-        "Data Analysis",
-        "Machine Learning"
+        "Statistical Modeling & Inference",
+        "Probabilistic & Bayesian Methods",
+        "Data Analysis & Visualization",
+        "Machine Learning & Representation Learning",
+        "Data Engineering & Large-Scale Computation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
