@@ -66,9 +66,9 @@
     {
       "name": "Quantum Optics for the Information Age",
       "date": "2025-09-30",
-      "issuer": "Stanford University",
+      "issuer": "100 years of Quantum Revolution School",
       "url": "https://fercho111.github.io/assets/pdf/CertificadoOptica.pdf",
-      "icon": "fa-regular fa-atom"
+      "icon": "fa-solid fa-atom"
     },
     {
       "name": "School on High Energy Physics",
@@ -89,16 +89,65 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Julia",
+        "C",
+        "C++",
+        "Fortran",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Scientific & Technical Computing",
+      "icon": "fa-solid fa-calculator",
+      "keywords": [
+        "LaTeX",
+        "Mathematica",
+        "ROOT"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch",
+        "scikit-learn"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "icon": "fa-solid fa-globe",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js"
+      ]
+    },
+    {
+      "name": "DevOps & Tooling",
+      "icon": "fa-solid fa-terminal",
+      "keywords": [
+        "Linux",
+        "Git",
+        "Docker",
+        "SQL"
+      ]
+    },
+    {
+      "name": "HEP Software (Basic Proficiency)",
+      "icon": "fa-solid fa-atom",
+      "keywords": [
+        "Pythia",
+        "Delphes",
+        "Geant4",
+        "MadGraph",
+        "MadDump",
+        "micrOMEGAs"
       ]
     }
   ],
@@ -127,7 +176,7 @@
   "interests": [
     {
       "name": "Physics",
-      "icon": "fa-regular fa-atom",
+      "icon": "fa-solid fa-atom",
       "keywords": [
         "High-Energy Physics & Phenomenology",
         "BSM Physics (Dark Matter, Neutrinos)",
