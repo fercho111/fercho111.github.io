@@ -23,9 +23,7 @@ announcements:
 
 I am a dual major Physics and Systems Engineering student at EIA University, Colombia, with a passion for learning and a drive for research. My interests span theoretical physics, mathematical structures, and scientific computing.
 
-My academic work includes research in algebraically motivated frameworks for quantum theory, as well as theoretical studies of the optical properties of low-dimensional semiconductor nanostructures. I have worked on algebraic approaches related to the Yang–Baxter equation, and on modeling quantum wells and heterostructures using effective-mass quantum mechanics and numerical methods.
-
-I am currently completing my undergraduate thesis in particle physics, focused on physics beyond the Standard Model and dark matter phenomenology, with an emphasis on theoretical modeling and computational tools.
+My academic work includes research in algebraically motivated frameworks for quantum theory, as well as theoretical studies of the optical properties of low-dimensional semiconductor nanostructures. I am currently completing my undergraduate thesis in particle physics, focused on physics beyond the Standard Model and dark matter phenomenology, with an emphasis on theoretical modeling and computational tools.
 
 In parallel with my research, I have experience in both academic teaching and software development. I have served as a teaching assistant for calculus and computational physics courses, and previously worked as a full-stack developer building data-driven SaaS systems.
 
