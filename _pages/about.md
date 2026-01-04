@@ -27,6 +27,4 @@ My academic work includes research in algebraically motivated frameworks for qua
 
 In parallel with my research, I have experience in both academic teaching and software development. I have served as a teaching assistant for calculus and computational physics courses, and previously worked as a full-stack developer building data-driven SaaS systems.
 
-Much of my work involves developing, running, and maintaining computational codes in research-oriented environments, from numerical modeling to reproducible analysis workflows. I am comfortable working independently across the full lifecycle of computational projects, from implementation to validation and documentation.
-
 Outside of academics, I enjoy playing the guitar, reading, watching films, following football, and learning languages.
