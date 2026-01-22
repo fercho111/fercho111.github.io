@@ -3,7 +3,7 @@
     "name": "Jose Fernando Gómez Bedoya",
     "image": "",
     "email": "jose.gomez18@eia.edu.co",
-    "summary": "8th Semester Physics and Systems Engineering Undergrad at EIA University."
+    "summary": "9th Semester Physics and Systems Engineering Undergrad at EIA University."
   },
   "work": [
     {
@@ -28,7 +28,7 @@
       "startDate": "2022",
       "endDate": "now",
       "score": "10",
-      "courses": ["Member of Semiconducting Nanostructures Research Group", "Member of Algebraic Structures Research Group"]
+      "courses": ["Member of Algebraic Structures Research Group","Member of Semiconducting Nanostructures Research Group"]
     },
     {
       "institution": "EIA University",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "HEP Software (Basic Proficiency)",
+      "name": "HEP Software",
       "icon": "fa-solid fa-atom",
       "keywords": [
         "Pythia",
